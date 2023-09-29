@@ -1,0 +1,1 @@
+"query":"%s {%s(ss) {\n    items {\n      %s\n    }\n  }\n}\n"}
